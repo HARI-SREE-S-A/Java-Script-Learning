@@ -27,7 +27,12 @@
   </head>
   <body>
     <h1>Login</h1>
-  <script>src = "script.js" </script>
+  <script>src = "script.js" </script> # src will connect the js individaually from another file instead of populating the script  as <script> </script>
   </body>
 </html>
+
+
+alert("welcome")
+
+console.log("hi this is from inspect")
 
