@@ -23,10 +23,11 @@
       }
       
     </style>
-    <script> alert("script generated")</script>
+    
   </head>
   <body>
     <h1>Login</h1>
+  <script>src = "script.js" </script>
   </body>
 </html>
 
