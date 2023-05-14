@@ -2,6 +2,7 @@ const averag = (a,b,c) => (a+b+c)/3
 
 function winner (a,b,c,d,e,f){
 
+    
     dol_scr = averag(a,b,c)
     kol_scr = averag(d,e,f)
     console.log(dol_scr,kol_scr)
