@@ -6,5 +6,8 @@ list[0] = "a"
 list[1] = "b"
 
 list.push()
+list.unshift()
 list.indexOf()
-list.
+list.includes()
+list.shift()
+list.pop()
