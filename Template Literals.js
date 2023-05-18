@@ -1,6 +1,6 @@
 const Name = "devil"
 
-dfju
+dfjuy
 
 const Sen = `hi mr ${Name} \n we are onto you`;
 
