@@ -1,5 +1,5 @@
 const Name = "devil"
-deghhgyghgg
+
 
 const Sen = `hi mr ${Name} \n we are onto you`;
 
