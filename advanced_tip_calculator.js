@@ -4,7 +4,6 @@ const bill = []
 
 
 
-
 for(i = 0;i <= amount.length-1;i+=1){
     if (50 <= amount[i] <= 300){tip.push(amount[i]*(15/100))}
     else{tip.push(amount[i]*(20/100))}
