@@ -2,7 +2,7 @@ const amount =  [22,295,176,440,37,105,10,1100,86,52]
 const tip = []
 const bill = []
 
-
+]
 
 for(i = 0;i <= amount.length-1;i+=1){
     if (50 <= amount[i] <= 300){tip.push(amount[i]*(15/100))}
