@@ -6,6 +6,7 @@ const Jh = 1.95;
 
 
 
+
 let MarksBmi = MarksMass/(Mh**2);
 let JohnsBmi = JohnMass/(Jh**2);
 
