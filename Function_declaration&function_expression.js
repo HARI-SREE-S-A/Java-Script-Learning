@@ -9,6 +9,7 @@ function agecalc1(year){
 //function expression
 
 
+
 const age2 = function(year) {
     age = 2023 - year
     return age
