@@ -10,6 +10,7 @@ for(i = 0;i <= amount.length-1;i+=1){
     bill[i] = tip[i] + amount[i]
 }
 
+
 const avg = function (arr) {
     sum = 0
     for(let n = 0;n<= arr.length-1;n+=1){
