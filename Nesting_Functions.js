@@ -4,7 +4,7 @@ const cutting_machine = fruit => {
     return (fruit * 4)
 } 
 
-dxxc
+dxxccx
 fasdd
 
 function juicer(apple,orange){
