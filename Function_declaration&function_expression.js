@@ -3,7 +3,7 @@
 function agecalc1(year){
     age = 2023 - year
     return age
-ss
+ssd
 }
 
 //function expression
