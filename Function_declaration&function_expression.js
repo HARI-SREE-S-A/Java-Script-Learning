@@ -11,6 +11,7 @@ ssdddd
 
 
 
+
 const age2 = function(year) {
     age = 2023 - year
     return age
