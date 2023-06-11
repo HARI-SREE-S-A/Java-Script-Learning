@@ -1,6 +1,6 @@
 const Name = "devil"
 
-efr
+efref
 const Sen = `hi mr ${Name} \n we are onto you`;
 
 
