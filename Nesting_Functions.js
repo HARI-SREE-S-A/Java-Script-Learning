@@ -5,7 +5,6 @@ const cutting_machine = fruit => {
 } 
 
 
-
 function juicer(apple,orange){
     apple_cut = cutting_machine(apple)
     orange_cut = cutting_machine(orange)
