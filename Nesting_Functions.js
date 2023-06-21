@@ -1,4 +1,4 @@
-//nesting the functions
+
 
 const cutting_machine = fruit => {
     return (fruit * 4)
