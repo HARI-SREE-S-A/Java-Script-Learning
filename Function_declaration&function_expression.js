@@ -17,7 +17,7 @@ const age2 = function(year) {
     return age
 }
 
-// xollecting the results
+// collecting the results
 
 const v = agecalc1(1991)
 console.log(v)
