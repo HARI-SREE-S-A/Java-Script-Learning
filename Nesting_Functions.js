@@ -1,11 +1,11 @@
 
-
+#multiple functions
 const cutting_machine = fruit => {
     return (fruit * 4)
 } 
 
 
-#####nesting the function
+##### nesting the function
 function juicer(apple,orange){
     apple_cut = cutting_machine(apple)
     orange_cut = cutting_machine(orange)
