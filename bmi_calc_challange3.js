@@ -7,9 +7,6 @@ const mark = {
         return this.index
     }
 
-
-
-
 }
 
 mark.cal_index(mark.mass,mark.height)
