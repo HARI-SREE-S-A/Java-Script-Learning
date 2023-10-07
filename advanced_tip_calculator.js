@@ -11,6 +11,7 @@ for(i = 0;i <= amount.length-1;i+=1){
 }
 
 
+
 const avg = function (arr) {
     sum = 0
     for(let n = 0;n<= arr.length-1;n+=1){
