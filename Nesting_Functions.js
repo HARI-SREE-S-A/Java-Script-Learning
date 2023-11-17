@@ -7,7 +7,6 @@ const cutting_machine = fruit => {
     return (fruit * 4)
 } 
 
-
 ### nesting the function
 function juicer(apple,orange){
     apple_cut = cutting_machine(apple)
