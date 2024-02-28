@@ -8,6 +8,7 @@ tipp(amount[1])
 tipp(amount[2])
 
 
+
 console.log(amount)
 console.log(tip)
 bill.push(amount[0]+tip[0],amount[1]+tip[1],amount[2]+tip[2])
